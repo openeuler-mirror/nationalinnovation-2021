@@ -1,39 +1,17 @@
-# Guochuang 2021
+### openEuler - 国创计划 2021
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+#### 2021年国家级大学生创新创业训练计划 - 国创计划
 
-#### 软件架构
-软件架构说明
+国创计划是教育部高等教育司是设立的创新创业训练计划，秉承“兴趣驱动、自主实践、重在过程”的原则，坚持以大学生创新创业训练计划项目为载体，支持大学生有效开展项目式学习、科研训练、创新训练与创业实践等活动，持续激发大学生创新创业活力，不断提升创新创业人才培养能力，为实现高等教育高质量发展奠定坚实基础。
 
+#### 国创计划 2021 - openEuler 题目方向讲解
 
-#### 安装教程
+openEuler 在国创计划的创新训练项目是针对云原生的训练项目，使用 Rust 语言编写云原生容器引擎、镜像构建工具、镜像分发引擎和编排引擎，通过训练项目学生熟练掌握下一代系统级编程语言 Rust ，并且对 Liunx 容器标准和技术、容器编排的架构设计。项目的训练结果，可以作为一个云原生创业项目的技术基座，加上 DevOps 等特性，构建不同方向的创业项目。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 国创计划题目
 
-#### 使用说明
+国创计划的题目在本仓库的 Issue 中使用 **国创计划** 标注
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 如何提交代码
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  提交的 PR 中请写明关联 **国创计划** 的 Issue
